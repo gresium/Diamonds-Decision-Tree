@@ -38,4 +38,4 @@ Results
 The system successfully detects and recognizes multiple faces in real time with high accuracy and minimal latency.
 
 # Author
-Developed by Gresa Hisa (@gresium) — AI & Cybersecurity Engineer
+Developed by Gresa Hisa — AI & Cybersecurity Engineer
